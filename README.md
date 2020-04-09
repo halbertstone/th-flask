@@ -36,3 +36,7 @@ memory-report = true
 ```
 * Run the application:
 `uwsgi uwsgi.ini`
+
+[test]
+browser navigation to http://localhost:8100
+"Hello World"
